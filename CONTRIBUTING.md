@@ -1,2 +1,2 @@
-# README.md
+# CONTRIBUTING.md
 See prepared content in conversation.
