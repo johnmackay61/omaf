@@ -34,8 +34,8 @@ OMAF is designed to work for any domain, from **abstract metaphysics** (e.g., ex
 - `OMAF_Rubric_Template_with_Radar.xlsx` — Scoring template + auto-generated 4-axis radar chart
 - `OMAF_Rubric.md` — Full scoring rubric with anchors for all criteria
 - `README.md` — This file
-- `CONTRIBUTING.md` — Guidelines for contributing improvements
-- `ACKNOWLEDGEMENTS.md` — Influences and references
+- `contributing.md` — Guidelines for contributing improvements
+- `acknowledgements.md` — Influences and references
 
 ---
 
