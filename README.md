@@ -1,7 +1,7 @@
 # Ontological Model Assessment Framework (OMAF)
 
 **Version:** 0.1 (Draft)  
-**Author:** John Mackay  
+**Authors:** John Mackay & ChatGPT 5  
 **License:** CC BY 4.0 — Attribution Required
 
 ---
