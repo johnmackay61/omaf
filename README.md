@@ -36,6 +36,7 @@ OMAF is designed to work for any domain, from **abstract metaphysics** (e.g., ex
 - `README.md` — This file
 - `contributing.md` — Guidelines for contributing improvements
 - `acknowledgements.md` — Influences and references
+- [Conference of Difference Case Study Example](docs/case-studies/conference-of-difference.md)
 
 ---
 
