@@ -44,6 +44,9 @@ The Conference of Difference applies universally — across physical, biological
 - Robustness: **4.33**
 - Pragmatic Usefulness: **4.33**
 - Transformative Potential: **5.00**
+
+![docs/capture-2025-08-13-11-47-40.jpg]
+
 ### 5. Discussion
 The evaluation reveals an ontology that is conceptually strong, widely applicable, and potentially transformative. Its grounding in irreducible difference avoids the pitfalls of monism without fragmenting into relativism. The model bridges metaphysics and praxis, making it relevant not only to philosophical discourse but also to applied fields such as governance (e.g., Colocracy) and conflict resolution.
 
