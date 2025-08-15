@@ -46,20 +46,14 @@ The Conference of Difference applies universally — across physical, biological
 - Transformative Potential: **5.00**
 
 #### Radar Summary
-![OMAF radar – Conference of Difference](../assets/omaf-radar-cod.jpg)
 
 ```mermaid
 ---
-title: "Grades"
+title: "Conference of Difference Radar Graph"
 ---
 radar-beta
-  axis m["Math"], s["Science"], e["English"]
-  axis h["History"], g["Geography"], a["Art"]
-  curve a["Alice"]{85, 90, 80, 70, 75, 90}
-  curve b["Bob"]{70, 75, 85, 80, 90, 85}
-
-  max 100
-  min 0
+axis Completeness, Robustness, Usefulness, Potential
+curve Score{4.75,4.33,4.33,5.00}
   
 ```
 
