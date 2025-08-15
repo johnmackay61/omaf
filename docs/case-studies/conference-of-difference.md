@@ -48,6 +48,21 @@ The Conference of Difference applies universally — across physical, biological
 #### Radar Summary
 ![OMAF radar – Conference of Difference](../assets/omaf-radar-cod.jpg)
 
+```mermaid
+---
+title: "Grades"
+---
+radar-beta
+  axis m["Math"], s["Science"], e["English"]
+  axis h["History"], g["Geography"], a["Art"]
+  curve a["Alice"]{85, 90, 80, 70, 75, 90}
+  curve b["Bob"]{70, 75, 85, 80, 90, 85}
+
+  max 100
+  min 0
+  
+```
+
 ### 5. Discussion
 The evaluation reveals an ontology that is conceptually strong, widely applicable, and potentially transformative. Its grounding in irreducible difference avoids the pitfalls of monism without fragmenting into relativism. The model bridges metaphysics and praxis, making it relevant not only to philosophical discourse but also to applied fields such as governance (e.g., Colocracy) and conflict resolution.
 
