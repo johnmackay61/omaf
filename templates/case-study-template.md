@@ -55,8 +55,17 @@
 ---
 
 ## 3. Visualisation
-**Radar Chart:**  
-[Insert or link the radar chart generated from the scoring template.]
+**Radar Chart:**
+
+```mermaid
+---
+title: "<ontology> Radar Graph"
+---
+radar-beta
+axis Completeness, Robustness, Usefulness, Potential
+curve Score{0.00,0.00,0.00,0.00}
+  
+```
 
 ---
 
